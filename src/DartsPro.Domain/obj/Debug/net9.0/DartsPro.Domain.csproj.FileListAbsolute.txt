@@ -1,0 +1,11 @@
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Domain/bin/Debug/net9.0/DartsPro.Domain.deps.json
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Domain/bin/Debug/net9.0/DartsPro.Domain.dll
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Domain/bin/Debug/net9.0/DartsPro.Domain.pdb
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Domain/obj/Debug/net9.0/DartsPro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Domain/obj/Debug/net9.0/DartsPro.Domain.AssemblyInfoInputs.cache
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Domain/obj/Debug/net9.0/DartsPro.Domain.AssemblyInfo.cs
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Domain/obj/Debug/net9.0/DartsPro.Domain.csproj.CoreCompileInputs.cache
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Domain/obj/Debug/net9.0/DartsPro.Domain.dll
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Domain/obj/Debug/net9.0/refint/DartsPro.Domain.dll
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Domain/obj/Debug/net9.0/DartsPro.Domain.pdb
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Domain/obj/Debug/net9.0/ref/DartsPro.Domain.dll

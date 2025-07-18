@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DartsPro.Infrastructure/1.0.0": {
+        "dependencies": {
+          "DartsPro.Application": "1.0.0",
+          "DartsPro.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DartsPro.Infrastructure.dll": {}
+        }
+      },
+      "DartsPro.Application/1.0.0": {
+        "dependencies": {
+          "DartsPro.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DartsPro.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DartsPro.Domain/1.0.0": {
+        "runtime": {
+          "DartsPro.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DartsPro.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DartsPro.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DartsPro.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

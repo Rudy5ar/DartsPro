@@ -1,0 +1,17 @@
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Infrastructure/bin/Debug/net9.0/DartsPro.Infrastructure.deps.json
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Infrastructure/bin/Debug/net9.0/DartsPro.Infrastructure.dll
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Infrastructure/bin/Debug/net9.0/DartsPro.Infrastructure.pdb
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Infrastructure/bin/Debug/net9.0/DartsPro.Application.dll
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Infrastructure/bin/Debug/net9.0/DartsPro.Domain.dll
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Infrastructure/bin/Debug/net9.0/DartsPro.Application.pdb
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Infrastructure/bin/Debug/net9.0/DartsPro.Domain.pdb
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Infrastructure/obj/Debug/net9.0/DartsPro.Infrastructure.csproj.AssemblyReference.cache
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Infrastructure/obj/Debug/net9.0/DartsPro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Infrastructure/obj/Debug/net9.0/DartsPro.Infrastructure.AssemblyInfoInputs.cache
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Infrastructure/obj/Debug/net9.0/DartsPro.Infrastructure.AssemblyInfo.cs
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Infrastructure/obj/Debug/net9.0/DartsPro.Infrastructure.csproj.CoreCompileInputs.cache
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Infrastructure/obj/Debug/net9.0/DartsPro.A1D4659F.Up2Date
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Infrastructure/obj/Debug/net9.0/DartsPro.Infrastructure.dll
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Infrastructure/obj/Debug/net9.0/refint/DartsPro.Infrastructure.dll
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Infrastructure/obj/Debug/net9.0/DartsPro.Infrastructure.pdb
+/home/petar/RiderProjects/DartsPro/src/DartsPro.Infrastructure/obj/Debug/net9.0/ref/DartsPro.Infrastructure.dll
